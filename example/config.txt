@@ -1,0 +1,2 @@
+Prefix plugins/HeatmapPTR/example/
+Plugin HeatmapPTR inputfile ptr-abundance-corr-groups.csv outputfile output.png
